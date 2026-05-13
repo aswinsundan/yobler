@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aswinsundan.github.io/yobler/sitemap.xml
